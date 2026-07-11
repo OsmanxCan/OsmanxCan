@@ -2,7 +2,7 @@
 
 # 👋 Merhaba, ben Osman Can Bozoğlu
 
-### Full Stack Developer • Next.js • NestJS • Flutter
+### Full Stack Developer and Embedded Systems
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Developing+Useful+Tools;Always+Learning+New+Technologies" />
 
